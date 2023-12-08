@@ -1,0 +1,9 @@
+# React Native Furniture Store App
+
+## Installation
+
+```bash
+cd your-repo
+npm install
+npm start
+

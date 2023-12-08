@@ -1,0 +1,98 @@
+{
+    "furnitureItems": [
+      {
+        "id": 1,
+        "name": "Elegant Sofa",
+        "thumbnail":"https://wakefitdev.gumlet.io/img/sofa-sets/lifestyle/WSFAFLPR3CFOBL.jpg?w=900",
+        "imageUrl": [
+            "https://wakefitdev.gumlet.io/img/sofa-sets/lifestyle/WSFAFLPR3CFOBL.jpg?w=900",
+            "https://wakefitdev.gumlet.io/img/sofa_cum_bed/flipper/RHS/omega%20blue/1.jpg?w=900",
+            "https://wakefitdev.gumlet.io/img/sofa_cum_bed/flipper/RHS/omega%20blue/3.jpg?w=900"
+          ],     
+        "description": "A comfortable and elegant sofa for your living room.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "category": "Sofa",
+        "price": 699.99
+        
+      },
+      {
+        "id": 2,
+        "name": "Modern Coffee Table",
+        "thumbnail":"https://m.media-amazon.com/images/I/81mKa8zmh0L._SL1500_.jpg",
+        "imageUrl": [
+            "https://m.media-amazon.com/images/I/81mKa8zmh0L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81KHHc9JjJL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61-UowGcowL._SL1500_.jpg"
+          ],
+        "description": "A sleek and modern coffee table for your lounge area. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "category": "Table",
+        "price": 249.99
+      },
+      {
+        "id": 3,
+        "name": "Classic Bed Frame",
+        "thumbnail":"https://rukminim2.flixcart.com/image/416/416/xif0q/bed/m/e/w/single-96-na-no-209-mdf-yes-49-4-wewb7836staurusr2-wakefit-80-original-imagg2et6smhzvqh.jpeg?q=70",
+        "imageUrl": [
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/bed/m/e/w/single-96-na-no-209-mdf-yes-49-4-wewb7836staurusr2-wakefit-80-original-imagg2et6smhzvqh.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/bed/c/u/d/single-96-na-no-209-mdf-yes-49-4-wewb7836staurusr2-wakefit-80-original-imagg2etasrsrhvh.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/bed/u/z/a/single-96-na-no-209-mdf-yes-49-4-wewb7836staurusr2-wakefit-80-original-imagtmmxt9yvrw8p.jpeg?q=70"
+          ],
+        "description": "A timeless and classic bed frame for a good night's sleep. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "category": "Bed",
+        "price": 899.99
+      },
+      {
+        "id": 4,
+        "name": "Office Desk",
+        "thumbnail":"https://m.media-amazon.com/images/I/41cdGEaVQ5L.jpg",
+        "imageUrl": [
+            "https://m.media-amazon.com/images/I/41cdGEaVQ5L.jpg",
+            "https://m.media-amazon.com/images/I/71-4NiU4PRL.jpg",
+            "https://m.media-amazon.com/images/I/51-0NGy602L.jpg"
+
+        ],
+        "description": "A spacious office desk for your productive work hours.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "category": "Desk",
+        "price": 599.99
+      },
+      {
+        "id": 5,
+        "name": "Cupboard with Shelve",
+        "thumbnail":"https://m.media-amazon.com/images/I/61dmjYjlp8S._SL1500_.jpg",
+        "imageUrl": [
+            "https://m.media-amazon.com/images/I/61dmjYjlp8S._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61ihKWoToKL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/6170yGAxmUL._SL1500_.jpg"
+        ],
+        "description": "A versatile cupboard with shelves for storage solutions. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "category": "Cupboard",
+        "price": 349.99
+      },
+      {
+        "id": 6,
+        "name": "Cozy Armchair",
+        "thumbnail":"https://m.media-amazon.com/images/I/71kinjm9j6L._SL1500_.jpg",
+        "imageUrl": [
+            "https://m.media-amazon.com/images/I/71kinjm9j6L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61ZUi1HC61L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61QCKi4mnKL._SL1500_.jpg"
+        ],
+        "description": "A cozy armchair for a relaxing corner in your home. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "category": "Chair",
+        "price": 399.99
+      },
+      {
+        "id": 7,
+        "name": "Dining Table Set",
+        "thumbnail":"https://m.media-amazon.com/images/I/81nQBN0OF8L._SL1500_.jpg",
+        "imageUrl": [
+            "https://m.media-amazon.com/images/I/81nQBN0OF8L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61py4MHFJGL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/617E0ESZwfL._SL1500_.jpg"
+        ],
+        "description": "A complete dining table set for family gatherings. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "category": "Table",
+        "price": 1299.99
+      }
+    ]
+  }
+  
